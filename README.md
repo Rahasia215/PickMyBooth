@@ -1,2 +1,2 @@
 # PickMyBooth
-Pick
+PickMyBooth
